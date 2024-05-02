@@ -14,7 +14,7 @@ class MyApp extends StatelessWidget {
         appBar: AppBar(
           backgroundColor: Colors.orangeAccent,
           elevation: 0,
-          title: Text('깃허브 테스트',
+          title: Text('깃허브',
             style: TextStyle(fontSize: 24),
           ),
           centerTitle: true,
